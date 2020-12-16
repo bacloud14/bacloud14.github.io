@@ -3,7 +3,7 @@
     "name": "Abderrahim Ben",
     "label": "Developer",
     "picture": "https://bacloud.github.io/images/aben.png",
-    "email": "bacloud14@gmail",
+    "email": "bacloud14@gmail.com",
     "phone": "",
     "website": "https://bacloud.github.io",
     "summary": "I am a generalist developer (back end affairs). Graduate in software engineering and artificial intelligence with an experience in big data projects. With some interest in data science, performance and security.",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "bacloud14",
         "url": "http://github.com/bacloud14"
       },
       {
@@ -29,21 +29,21 @@
   },
   "interests": [
     {
-      "name": "engineering",
+      "name": "Engineering",
       "keywords": [
         "design patterns",
         "optimization"
       ]
     },
     {
-      "name": "data",
+      "name": "Data",
       "keywords": [
         "cleansing",
         "mining"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial intelligence",
       "keywords": [
         "constraint programming",
         "logic and functional programming"
@@ -73,8 +73,8 @@
   "education": [
     {
       "institution": "Constantine University - Algeria",
-      "area": "Computer Science, software engineering and AI",
-      "studyType": "Master",
+      "area": "Computer Science. Software engineering. AI",
+      "studyType": "Master degree in: ",
       "gpa": "",
       "courses": [
       ]
@@ -82,7 +82,7 @@
     {
       "institution": "Paris Descartes University - France",
       "area": "Distributed AI",
-      "studyType": "Master",
+      "studyType": "Master degree in: ",
       "gpa": "",
       "courses": [
       ]
@@ -96,18 +96,23 @@
       "summary": "Development and data engineering",
       "highlights": [
         "Big data projects on smart meters data",
-        "Digitalization"
+        "Digitalization: part of Development and DevOps"
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Github projects",
-      "position": "Software Developer and maintainer",
-      "summary": "Software Developer and maintainer",
+      "position": "Developer and maintainer",
+      "summary": "Development of several tiny projects. See my Github repository",
       "highlights": [
-        "",
-        ""
+        "Interactive Arrays",
+        "Timeline Miner",
+        "JS Arules",
+        "Datus",
+        "Opacity On Top",
+        "Exec",
+        "Outscore Card Game"
       ]
     },
     {
@@ -118,30 +123,10 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
