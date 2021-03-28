@@ -5,21 +5,15 @@ image: images/vacay-square.png
 title: Vacay
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-07-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - ideas
+summary: Gamenian is a card game out of my imagination
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/Queen_playing_cards.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+"Gamenian" Card Game is a novel card game out of my imagination. See the non complete (demo) game in the link. Suits are not yet ranked so (Ace of spades > Ace of clubs) is not defined yet. Order of plays in Rounds are not set yet so always Lowerhand starts and Upperhand finish Rounds. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+[Read more](https://github.com/bacloud14/Gamenian)
+[Demo](https://bacloud14.github.io/Gamenian/)
